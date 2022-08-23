@@ -1,3 +1,0 @@
-# idkpasswd.io
-
-just test
